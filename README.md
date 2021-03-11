@@ -1,2 +1,2 @@
 # Python-Basic-Certificate-HackerRank
-[](/certificate.png)
+![](/certificate.png)
